@@ -3,7 +3,6 @@
 
 ## You can reach me by:
 1. Teleram: @sanorian
-1. VK: https://vk.com/sanorian
 1. E-Mail: sanorian@yandex.ru
 # Now I knew:
 ### _Languages:_
