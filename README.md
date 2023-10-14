@@ -2,8 +2,9 @@
 ### I’m interested in web and software developing
 
 ## You can reach me by:
-1. Teleram: @sanorian
+1. Telegram: @sanorian
 1. E-Mail: sanorian@yandex.ru
+1. Mastodon: https://mastodon.social/@Sanorian
 # Now I knew:
 ### _Languages:_
 - Javascript
