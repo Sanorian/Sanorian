@@ -9,16 +9,16 @@
 - Javascript
 - Python
 ### _Tools_ of this languages:
+- Vue3
 - Node.js
 - Node.js express
 - Node.js SQLite3
 - TKinter
+- PyQT
+- FastAPI
 <!---
 Sanorian/Sanorian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 # Now I learning:
-- Node.js as a backend for web apps
-- Vue as a frontend for web apps
-- FastAPI as a backend for web apps
-- PyQT as a framework for software
+- Hosting using nginx
