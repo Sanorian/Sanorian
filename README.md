@@ -9,6 +9,8 @@
 ### _Languages:_
 - Javascript
 - Python
+- Some Java
+- Some C++
 ### _Tools_ of this languages:
 - Vue3
 - Node.js
@@ -17,9 +19,12 @@
 - TKinter
 - PyQT
 - FastAPI
+- Python MySQL
+- Node.js MySQL
 <!---
 Sanorian/Sanorian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 # Now I learning:
 - Hosting using nginx
+- Docker
