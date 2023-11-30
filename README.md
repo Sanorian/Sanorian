@@ -16,11 +16,11 @@
 - Node.js
 - Node.js express
 - Node.js SQLite3
-- TKinter
+- Node.js MySQL
+- Python TKinter
 - PyQT
 - FastAPI
 - Python MySQL
-- Node.js MySQL
 <!---
 Sanorian/Sanorian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -28,3 +28,5 @@ You can click the Preview link to take a look at your changes.
 # Now I learning:
 - Hosting using nginx
 - Docker
+- C++ Qt
+- Algorithms
