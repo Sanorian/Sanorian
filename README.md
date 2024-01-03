@@ -11,6 +11,7 @@
 - Python
 - Some Java
 - Some C++
+- Some Scala
 ### _Tools_ of this languages:
 - Vue3
 - Node.js
