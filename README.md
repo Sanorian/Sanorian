@@ -7,11 +7,11 @@
 1. Mastodon: https://mastodon.social/@Sanorian
 # Now I knew:
 ### _Languages:_
-- Javascript
 - Python
+- Javascript
+- Some Scala
 - Some Java
 - Some C++
-- Some Scala
 ### _Tools_ of this languages:
 - Vue3
 - Node.js
