@@ -22,6 +22,7 @@
 - PyQT
 - FastAPI
 - Python MySQL
+- Django
 <!---
 Sanorian/Sanorian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -29,5 +30,4 @@ You can click the Preview link to take a look at your changes.
 # Now I learning:
 - Hosting using nginx
 - Docker
-- C++ Qt
-- Algorithms
+- Architecting web apps
