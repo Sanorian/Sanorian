@@ -5,8 +5,7 @@
 1. Telegram: @sanorian
 1. E-Mail: sanorian@yandex.ru
 1. Mastodon: https://mastodon.social/@Sanorian
-# Now I knew:
-### _Languages:_
+## _Languages:_
 - Python
 - Javascript
 - Some Scala
