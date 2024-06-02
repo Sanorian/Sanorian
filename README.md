@@ -8,6 +8,7 @@
 ## _Languages:_
 - Python
 - Javascript
-- Some Scala
-- Some Java
+- Scala
+- Java
 - Some C++
+- Some Ruby
